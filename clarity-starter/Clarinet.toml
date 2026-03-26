@@ -1,0 +1,11 @@
+[project]
+name = "simple-counter"
+description = "A complete Clarinet project with Vitest testing"
+authors = []
+telemetry = false
+cache_dir = "./.requirements"
+
+[contracts.simple-counter]
+path = "contracts/simple-counter.clar"
+clarity_version = 3
+epoch = 'latest'

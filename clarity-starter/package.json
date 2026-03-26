@@ -1,0 +1,14 @@
+{
+  "name": "simple-counter",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@hirosystems/clarinet-sdk": "latest",
+    "vitest-environment-clarinet": "^2.3.1",
+    "typescript": "^5.0.0",
+    "vitest": "^1.6.1"
+  }
+}
