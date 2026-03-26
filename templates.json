@@ -23,7 +23,7 @@
     {
         "id": "clarity-starter",
         "name": "Clarity Starter",
-        "description": "A complete clarity smart contract starter template",
+        "description": "A complete clarity smart contract starter template with tests and deployment scripts",
         "path": "clarity-starter",
         "previewPath": "clarity-starter/contracts/simple-counter.clar"
     }
