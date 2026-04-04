@@ -4,34 +4,39 @@
         "name": "👋 Hello World",
         "description": "A basic Clarity contract that returns a greeting string",
         "path": "hello-world",
-        "previewPath": "hello-world/contracts/hello-world.clar"
+        "previewPath": "hello-world/contracts/hello-world.clar",
+        "type": "clarity"
     },
     {
         "id": "counter",
         "name": "🔢 Counter",
         "description": "A stateful counter contract with increment, decrement, and get-counter functions",
         "path": "counter",
-        "previewPath": "counter/contracts/counter.clar"
+        "previewPath": "counter/contracts/counter.clar",
+        "type": "clarity"
     },
     {
         "id": "fungible-token",
         "name": "Fungible Token",
         "description": "A simple fungible token implementation (SIP-010-like)",
         "path": "fungible-token",
-        "previewPath": "fungible-token/contracts/my-token.clar"
+        "previewPath": "fungible-token/contracts/my-token.clar",
+        "type": "clarity"
     },
     {
         "id": "clarity-starter",
         "name": "Clarity Starter",
         "description": "A complete clarity smart contract starter template with tests and deployment scripts",
         "path": "clarity-starter",
-        "previewPath": "clarity-starter/contracts/simple-counter.clar"
+        "previewPath": "clarity-starter/contracts/simple-counter.clar",
+        "type": "clarity"
     },
     {
         "id": "stxer-simulation-demo",
         "name": "Stxer Simulation Demo",
         "description": "A complete stxer.xyz simulation demo",
         "path": "stxer-simulation-demo",
-        "previewPath": "stxer-simulation-demo/index.ts"
+        "previewPath": "stxer-simulation-demo/index.ts",
+        "type": "stxer"
     }
 ]
