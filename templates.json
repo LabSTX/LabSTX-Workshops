@@ -26,5 +26,12 @@
         "description": "A complete clarity smart contract starter template with tests and deployment scripts",
         "path": "clarity-starter",
         "previewPath": "clarity-starter/contracts/simple-counter.clar"
+    },
+    {
+        "id": "stxer-simulation-demo",
+        "name": "Stxer Simulation Demo",
+        "description": "A complete stxer.xyz simulation demo",
+        "path": "stxer-simulation-demo",
+        "previewPath": "stxer-simulation-demo/index.ts"
     }
 ]
