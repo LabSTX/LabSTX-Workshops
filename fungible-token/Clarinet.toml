@@ -6,5 +6,5 @@ telemetry = false
 requirements = []
 [contracts.my-token]
 path = "contracts/my-token.clar"
-clarity_version = 3
-epoch = 'latest'
+clarity_version = 5
+epoch = '3.4'

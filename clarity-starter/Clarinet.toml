@@ -7,5 +7,5 @@ cache_dir = "./.requirements"
 
 [contracts.simple-counter]
 path = "contracts/simple-counter.clar"
-clarity_version = 3
-epoch = 'latest'
+clarity_version = 5
+epoch = '3.4'
