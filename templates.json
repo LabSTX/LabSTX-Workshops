@@ -38,5 +38,13 @@
         "path": "stxer-simulation-demo",
         "previewPath": "stxer-simulation-demo/index.ts",
         "type": "stxer"
+    },
+     {
+        "id": "rendezvous",
+        "name": "Rendezvous",
+        "description": "Rendezvous property-based testing template",
+        "path": "rendezvous",
+        "previewPath": "rendezvous/contracts/stx-defi.clar",
+        "type": "clarity"
     }
 ]

@@ -1,0 +1,23 @@
+{
+  "name": "rendezvous-example-clarinet-project",
+  "version": "1.0.0",
+  "description": "Example project that allows testing a Clarity contract with @stacks/rendezvous and Clarinet.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "vitest run",
+    "test:report": "vitest run -- --coverage --costs",
+    "test:watch": "chokidar \"tests/**/*.ts\" \"contracts/**/*.clar\" -c \"npm run test:report\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@stacks/clarinet-sdk": "^3.20.0",
+    "@stacks/rendezvous": "^1.0.1",
+    "@stacks/transactions": "^7.4.0",
+    "@types/node": "^24.10.0",
+    "chokidar-cli": "^3.0.0",
+    "vitest": "^4.0.8",
+    "vitest-environment-clarinet": "^3.0.1"
+  }
+}
