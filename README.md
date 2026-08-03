@@ -2,7 +2,7 @@
 
 Welcome to the **LabSTX Workshop**, the dynamic template engine powering the [LabSTX IDE](https://github.com/USER/LabSTX). This repository serves as a live provider of Clarity smart contract templates, enabling developers to jumpstart their Stacks development with proven patterns and integrated tooling.
 
-![LabSTX Banner](https://raw.githubusercontent.com/USER/LabSTX/main/public/banner.png) <!-- Placeholder for actual banner if available -->
+![LabSTX Banner](/labstx-workshop/template_banner.JPG) <!-- Placeholder for actual banner if available -->
 
 ## 🛠 Included Templates
 
